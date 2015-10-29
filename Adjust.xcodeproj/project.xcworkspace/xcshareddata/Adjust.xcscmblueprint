@@ -5,18 +5,28 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "5D3A06A058226D065739B53871A0207A1C3022C2" : 0,
+<<<<<<< c6f28dfad45454dff5506e515f7c5d87bb2133e2
     "F7C6F209B1DCA446C89CD9019B5C206C0685236A" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39D3F7B5-32C4-4987-9F89-1A4B49A266EA",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "5D3A06A058226D065739B53871A0207A1C3022C2" : "ios_sdk\/",
     "F7C6F209B1DCA446C89CD9019B5C206C0685236A" : "cordova_sdk\/"
+=======
+    "4B732604DB5ACE3698481AF042AF87E80A88651C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93F0C7EF-B9AF-41CC-ACA9-700B4BAB7B44",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D3A06A058226D065739B53871A0207A1C3022C2" : "sdk\/",
+    "4B732604DB5ACE3698481AF042AF87E80A88651C" : "..\/.."
+>>>>>>> Moving framework to root directory
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Adjust",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Adjust.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
+<<<<<<< c6f28dfad45454dff5506e515f7c5d87bb2133e2
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/ios_sdk.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D3A06A058226D065739B53871A0207A1C3022C2"
@@ -25,6 +35,16 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/cordova_sdk.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7C6F209B1DCA446C89CD9019B5C206C0685236A"
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/xamarin_sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B732604DB5ACE3698481AF042AF87E80A88651C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/ios_sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D3A06A058226D065739B53871A0207A1C3022C2"
+>>>>>>> Moving framework to root directory
     }
   ]
 }
