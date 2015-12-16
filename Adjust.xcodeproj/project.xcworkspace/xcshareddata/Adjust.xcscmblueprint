@@ -4,11 +4,13 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B50E7DEC1CD302617B1B722A1347B8F1F3BDEDF1" : 0,
     "5D3A06A058226D065739B53871A0207A1C3022C2" : 0,
     "F7C6F209B1DCA446C89CD9019B5C206C0685236A" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39D3F7B5-32C4-4987-9F89-1A4B49A266EA",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B50E7DEC1CD302617B1B722A1347B8F1F3BDEDF1" : "..\/..",
     "5D3A06A058226D065739B53871A0207A1C3022C2" : "ios_sdk\/",
     "F7C6F209B1DCA446C89CD9019B5C206C0685236A" : "cordova_sdk\/"
   },
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/ios_sdk.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D3A06A058226D065739B53871A0207A1C3022C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/unity_sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B50E7DEC1CD302617B1B722A1347B8F1F3BDEDF1"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adjust\/cordova_sdk.git",
